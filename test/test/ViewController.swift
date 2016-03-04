@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         print("dsdsfs");
         print("001");
+        print("002");
         // Do any additional setup after loading the view, typically from a nib.
     }
 
