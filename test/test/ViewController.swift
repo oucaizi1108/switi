@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("001");
         print("002");
         print("003");
+        print("004");
         // Do any additional setup after loading the view, typically from a nib.
     }
 
